@@ -7,3 +7,27 @@ position: absolute;
 left: 50%;
 bottom: 50%;
 }
+
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    width: 100px;
+    length: 200%;
+    background-color: #0000ffff;
+}
+
+li a {
+    display: block;
+    color: #555;
+    padding: 25px 0 25px 0px;
+    text-decoration: none;
+    font-family:Arial;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #ffff;
+    color: #555;
+}
