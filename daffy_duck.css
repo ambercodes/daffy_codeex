@@ -31,3 +31,29 @@ li a:hover {
     background-color: #ffff;
     color: #555;
 }
+
+hr {
+  width:55%;
+  margin-right: 5px;
+  margin-left: 35%;
+  display: block;
+  border-style: inset;
+  border-width: 2px;
+
+}
+
+h4 {
+  padding-top: 0;
+  text-indent: 55%;
+  font-family: Arial;
+  font-size: 18;
+  color:#555;
+}
+p {
+  text-indent: 55%;
+  font-family: Arial;
+  font-size: 18px;
+  top:80%;
+  color: #555
+  align: center;
+}
